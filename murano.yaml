@@ -1,8 +1,8 @@
 
 ---
 info:
-  name: Create an Application from Scratch
-  summary: Use this to create a from scratch application from Murano Exchange
+  name: Create a Solution from Scratch
+  summary: Use this to create a from scratch solution from Murano Exchange
   description: Use this to create a from scratch application from Murano Exchange
   authors: ["patricklevy@exosite.com"]
   version: 1.0.0
